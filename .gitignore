@@ -1,0 +1,6 @@
+arduino_secrets.h
+.DS_Store
+.vscode
+local.settings.json
+node_modules
+.eslintrc.json
